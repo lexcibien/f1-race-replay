@@ -1,7 +1,7 @@
 [project]
 name = "f1-race-replay"
 version = "0.1.0"
-description = "An interactive Formula 1 race visualization and data analysis tool built with Python! 🏎️"
+description = "An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
